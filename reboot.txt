@@ -1,1 +1,1 @@
-Don't reboot
+reboot
